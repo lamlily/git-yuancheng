@@ -1,0 +1,19 @@
+{
+  "name": "git-local",
+  "version": "1.0.0",
+  "description": "666",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamlily/git-yuancheng.git"
+  },
+  "author": "lily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamlily/git-yuancheng/issues"
+  },
+  "homepage": "https://github.com/lamlily/git-yuancheng#readme"
+}
